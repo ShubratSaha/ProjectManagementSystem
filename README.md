@@ -9,4 +9,4 @@ This project was designed to develop REST APIs using PHP which serve as a backen
 5. Move this project to /var/www/html using FileZilla or WinSCP.
 6. Create a database 'project_mgmt_system'. Import the SQL File using phpMyAdmin.
 7. Change the UserName and Password as per your MySQL in the Database.php file inside config folder.
-8. Use the IP Address of the EC2 instance to make API requests using Postman application.
+8. Use the IP Address of the EC2 instance to open the phpMyAdmin and make API requests using Postman application.
